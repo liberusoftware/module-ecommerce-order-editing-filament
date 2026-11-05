@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-order-editing-filament",
+  "capabilityKey": "planned:ecommerce:order-editing",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-order-editing-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/order-editing.md",
+  "presentationPlan": "projects/ecommerce/filament/order-editing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
